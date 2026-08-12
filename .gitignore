@@ -1,0 +1,17 @@
+node_modules/
+.pnpm-store/
+.pytest_cache/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.local
+.env.*.local
+.dev.vars
+.DS_Store
+supabase/.temp/
+supabase/.branches/
+tests/fixtures/private/
+*.real.csv
+preview-server*.log

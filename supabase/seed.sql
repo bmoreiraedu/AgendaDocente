@@ -1,0 +1,3 @@
+-- O projeto não cria usuários automaticamente.
+-- Crie o Master de forma controlada pelo Dashboard/Auth Admin e atribua o papel com:
+-- insert into public.user_roles (user_id, role) values ('USER_UUID', 'master');
